@@ -71,7 +71,6 @@ This script is provided for educational purposes only. Use it responsibly and in
 Contributing
 Contributions are welcome! Feel free to submit a pull request for any improvements or features you would like to add.
 
-License
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
