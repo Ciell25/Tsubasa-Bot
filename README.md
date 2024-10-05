@@ -1,3 +1,5 @@
+> [<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/Van_Qish)
+
 # Tsubasa Bot Automation
 
 ## 🚀 Overview
@@ -25,45 +27,41 @@ Tsubasa Bot Automation is a powerful tool designed to streamline your gaming exp
 ### For Windows
 
  Clone this repository:
-    ```bash
+    
+    
     git clone https://github.com/Ciell25/Tsubasa-Bot.git
-    ```
-    ```bash
     cd Tsubasa-Bot
-    ```
-    ```bash
     npm install
-    ```
+    
 ### For Termux
 
 Install Node.js and npm:
-    ```bash
-    pkg install nodejs
-    ```
+    
+     pkg install nodejs
+    
 
 Clone this repository:
-    ```bash
-   git clone "https://github.com/Ciell25/Tsubasa-Bot.git"
-    ```
+    
+    git clone "https://github.com/Ciell25/Tsubasa-Bot.git"
+   
 Navigate to the project directory:
-```bash
-cd Tsubasa-Bot
-```
+
+    cd Tsubasa-Bot
+     
 Install the required dependencies:
-    ```bash
+
     npm install
-    ```
+    
 Configuration
 Edit the data.txt file or nano data.txt
 Add your query id/user id, one per line.
 
 Usage
 To run the script, use the following command:
-    ```bash
+   
     node main.js
-    ```
-
-    Important Notes
+   
+#Important Notes
 This script is designed to run continuously. Use Ctrl+C to stop execution.
 Ensure compliance with the TsubasaAPI terms of service when using this automation script.
 Although the script includes error handling, please monitor its execution for any unexpected behavior.
